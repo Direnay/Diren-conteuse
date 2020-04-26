@@ -5,8 +5,8 @@
 
 ``` Problématique: marre de manger des carottes```
 
-<p> Au bout du chemin un grand arbre. Dessus un chose avec des plumes ? **un oiseau** 
-"héé l'oiseau qu'est ce que tu mange toi?"
+<p> Au bout du chemin un grand arbre. Dessus un chose avec des plumes ?
+"héé **l'oiseau** qu'est ce que tu mange toi?"
 "Moi je mange des verres de terres"
 "Des verres de terre ? Berk c'est pas bon ça les verres de terres berk, jamais je ne mangerais ça moi"
 Derrière l'arbre commence la rivière, il entend l'eau couler.
@@ -37,7 +37,7 @@ Au pied de l'arbre un drôle d'animal qui fait "kakkakakkka" dans sa mains un tr
 
 Il rentre chez lui, il se dit qu'il est parti très très loin mais qu'il ne connait même pas les animaux de la ferme juste à côté. 
 Il prend le chemin sous ses pieds et il marche 1,2,3, il y a un animal rose qui fais roro. 
-"hey cochon qu'est ce que tu mange toi ? "
+"hey **cochon** qu'est ce que tu mange toi ? "
 "Moi, je mange tout"
 "Quoi, tu mange tout. Ha mais moi je ne peux pas tout manger ben non"
 Il rentre chez lui, reprend le chemin sous ses pieds et 1, 2
