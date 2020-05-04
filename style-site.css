@@ -5,11 +5,11 @@ body {
   text-align: center;
   margin: auto;
   width: 100%;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 div {
-  display: inline;
+  display: block;
   width: 400px;
   height: 300px;
   margin-left: 5px;
@@ -17,14 +17,12 @@ div {
 ul {
   border: 1px solid;
 }
-p {
-  font-size: 25px;
-}
+
 li {
-  list-style-type: lower-latin;
+  list-style-type: square;
   display: inline;
   font-size: 25px;
-  margin: 3px 3px;
+  margin: 10px 10px;
 }
 
 h1 {
@@ -36,20 +34,26 @@ h2 {
 }
 
 .accueil {
-  min-width: 500px;
-  min-height: 200px;
+  width: 300px;
+  height: 200px;
   align-items: left;
 }
 .presentation {
-  width: 700px%;
-  height: 600px;
+  width: 1800px%;
   float: left;
-  margin: ;
-}
-
-.texte presentation {
-  margine: center;
 }
 audio {
   display: block;
+}
+.nasredin {
+  width: 300px;
+  margin: left;
+}
+.samarcande {
+  width: 300px;
+  margin: left;
+}
+.amour gloir courage {
+  width: 300px;
+  margin: left;
 }
