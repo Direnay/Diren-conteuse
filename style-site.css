@@ -1,32 +1,47 @@
 body {
   color: blueviolet;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 100%;
+  font-size: 15px;
 }
 
+div {
+  display: inline;
+  width: 400px;
+  height: 300px;
+  margin-left: 5px;
+}
 ul {
   border: 1px solid;
-  width: "200%";
 }
-
+p {
+  font-size: 25px;
+}
 li {
   list-style-type: none;
   display: inline;
-  width: "200%";
-}
-.shadowbox {
-  border: 1px solid;
-  margin: auto;
-  padding: 0.5em;
-  width: 50%;
-  box-shadow: 10px 5px 5px grey;
-  text-align: center;
+  font-size: 25px;
 }
 
 h1 {
   font-family: cursive;
-  width: "70%";
   text-align: center;
+}
+
+.accueil {
+  min-width: 500px;
+  min-height: 200px;
+  align-items: left;
+}
+.presentation {
+  width: 700px%;
+  height: 600px;
+  float: left;
+  margin: 
+}
+
+.texte presentation {
+  float: left;
+  margine
 }
