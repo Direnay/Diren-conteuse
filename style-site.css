@@ -5,13 +5,12 @@ body {
   text-align: center;
   margin: auto;
   width: 100%;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 div {
   display: block;
-  width: 400px;
-  height: 300px;
+  width: 1400px;
   margin-left: 5px;
 }
 ul {
@@ -19,10 +18,10 @@ ul {
 }
 
 li {
-  list-style-type: square;
+  list-style-type: upper-latin;
   display: inline;
   font-size: 25px;
-  margin: 10px 10px;
+  margin: 20px 20px;
 }
 
 h1 {
@@ -34,16 +33,17 @@ h2 {
 }
 
 .accueil {
-  width: 300px;
-  height: 200px;
+  width: 1700px;
+  height: 300px;
   align-items: left;
 }
 .presentation {
-  width: 1800px%;
+  width: 300px;
   float: left;
 }
 audio {
   display: block;
+  align-items: center;
 }
 .nasredin {
   width: 300px;
@@ -53,7 +53,7 @@ audio {
   width: 300px;
   margin: left;
 }
-.amour gloir courage {
+.amour {
   width: 300px;
   margin: left;
 }
