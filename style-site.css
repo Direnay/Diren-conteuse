@@ -12,17 +12,10 @@ body {
   font-size: 35px;
 }
 
-h1 {
-  font-family: "Chelsea Market", cursive;
-}
 h2 {
   font-family: "Reenie Beanie", cursive;
   font-size: 50px;
   text-align: center;
-}
-p {
-  margin-left: 100px;
-  margin-right: 100px;
 }
 
 ul {
@@ -103,34 +96,61 @@ img {
 }
 
 /* spectacle */
-.spe {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 10px;
-  grid-auto-rows: minmax(100px, auto);
-  background: #555;
+.titre-un {
+  font-size: 40px;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row: 1;
 }
-.cinq {
-  grid-column: 1;
-  grid-row: 1/ 2;
+.titre-deux {
+  font-size: 40px;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row: 2;
+  background-color: khaki;
 }
-.six {
-  grid-column: 2/ 4;
-  grid-row: 2 / 3;
-}
-.sept .huit .neuf .dix .nasredin {
-  width: 30%;
-  margin: left;
-}
-.samarcande {
-  width: 300px;
-  margin: left;
-}
-.amour {
-  width: 300px;
-  margin: left;
+.titre-trois {
+  font-size: 40px;
+  grid-column: 1/2;
+  grid-row: 3;
 }
 
+.spe {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-auto-rows: 500px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.img-un {
+  grid-column: 1;
+  grid-row: 1;
+  width: 300px;
+}
+.deux {
+  margin-top: 100px;
+  grid-column: 2;
+  grid-row: 1;
+}
+.img-trois {
+  grid-column: 1;
+  grid-row: 2;
+  width: 300px;
+}
+.quatre {
+  grid-column: 2;
+  grid-row: 2;
+}
+.img-cinq {
+  grid-column: 1;
+  grid-row: 3;
+  width: 300px;
+}
+
+.six {
+  grid-column: 2;
+  grid-row: 3;
+}
 /* Mes histoires */
 
 audio {
