@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Mon chemin vers le conte
-![diren en noir et blanc](./photo/noir -bl.jpg){.parcours}
+![diren en noir et blanc](./photo/noir -bl.jpg){: .parcours}
 
 
 Je suis comédienne et conteuse.  
