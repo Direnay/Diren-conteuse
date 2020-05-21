@@ -4,14 +4,14 @@ layout: default
 ## Mon chemin vers le conte
 ![diren en noir et blanc](./photo/noir -bl.jpg){: .parcours}
 
-
+{:.tx-parcours}
 Je suis comédienne et conteuse.  
 Suite à quelque années de pratique de la scène, j'ai participé à la
 formation au métier de conteur traditionnelle animé par le conteur
 François Vermel.  
 Tout le long de cette formation j'ai pu être nourri par une dizaine
 d’autres conteurs professionnels de l’association Dahu téméraire.  
-Pascal Quéré m'a apporté les connaissance en littérature oral. <br />
+Pascal Quéré m'a apporté les connaissance en littérature oral.  
 Je me suis aventuré dans les meandres des versions des contes avec Tania
 Bock.  
 Alain Bel percussionniste internatinal, m'a fait redécouvrir mes rythmes
