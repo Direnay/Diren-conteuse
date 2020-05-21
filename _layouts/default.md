@@ -1,11 +1,4 @@
-
-    <meta charset="utf-8" />
-    <meta title="Diren AYDIN Conteuse" />
-    <meta name="description contenu apparent sur google" />
-    <meta
-      keywords="conteuse,conte, merveilleux, montpellier, diren, aydin, mésopotamie, kurde, turquie"
-    />
-    
+ 
    [stylesheet](style-site.css)
    [stylesheet](https://fonts.googleapis.com/css2?family=Pacifico&display=swap)
     
