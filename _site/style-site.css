@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Chelsea+Market&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap");
+/*accueil*/
+body {
+  color: #6a8785;
+  background-color: #07263e;
+  font-family: "Federo", sans-serif;
+  text-align: center;
+  width: 100%;
+  font-size: 35px;
+}
+
+h2 {
+  font-family: "Reenie Beanie", cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+ul {
+  box-shadow: 8px 8px 12px rgb(7, 7, 7);
+  background: #014f6e;
+  border: 3px solid;
+  border-color: #74383f;
+  margin-top: 10px;
+  padding: 10px;
+  color: #dea173;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: "Federo", sans-serif;
+  font-size: 40px;
+}
+
+li a:visited,
+li a:hover,
+li a:active {
+  color: #975708;
+}
+
+li {
+  display: inline;
+  font-size: 35px;
+  margin: 20px 20px;
+}
+
+img {
+  box-shadow: 8px 8px 12px rgb(7, 7, 7);
+}
+
+.img-accueil {
+  width: 850px;
+  margin-top: 0px;
+  margin-right: 40px;
+  margin-left: 100px;
+  float: left;
+}
+
+.logo-accueil {
+  font-family: "Reenie Beanie", cursive;
+  color: #dea173;
+  font-size: 50px;
+  margin-left: 950px;
+  margin-right: 600px;
+  margin-top: 100px;
+  border: 1px solid;
+  background-color: #74383f;
+  text-align: center;
+}
+
+/*parcours*/
+.parcours {
+  width: 400px;
+  height: px;
+  margin-right: 40px;
+  margin-left: 100px;
+  float: left;
+  overflow: hidden;
+}
+.tx-parcours {
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.logo-parcours {
+  float: right;
+  font-family: "Reenie Beanie", cursive;
+  color: #dea173;
+  margin-left: auto;
+  margin-right: 100px;
+  font-size: 50px;
+  border: 1px solid;
+  box-shadow: 8px 8px 12px rgb(7, 7, 7);
+  background-color: #74383f;
+  text-align: center;
+}
+
+/* spectacle */
+.spe {
+  display: grid;
+  grid-template-columns: 300px 2fr;
+  grid-auto-rows: 350px;
+  margin: 1em;
+  row-gap: 30px;
+}
+.titre-un,
+.titre-deux,
+.titre-trois {
+  font-size: 50px;
+  margin: 0;
+}
+
+.img-un {
+  width: 300px;
+}
+.img-deux,
+.img-trois {
+  width: 300px;
+}
+
+.un {
+  grid-column: 1;
+  grid-row: 1;
+}
+.deux {
+  grid-column: 2;
+  grid-row: 1;
+}
+.trois {
+  grid-column: 1;
+  grid-row: 2;
+  background: #014f6e;
+}
+.quatre {
+  grid-column: 2;
+  grid-row: 2;
+  background: #014f6e;
+}
+.cinq {
+  grid-column: 1;
+  grid-row: 3;
+}
+
+.six {
+  grid-column: 2;
+  grid-row: 3;
+}
+/* Mes histoires */
+
+audio {
+  width: 50%;
+  margin: 10px auto;
+}
