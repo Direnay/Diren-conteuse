@@ -1,5 +1,6 @@
 ---
 layout: default
+auteur: Rendi
 ---
 
 <img
@@ -13,6 +14,7 @@ alt="Photo de diren aydin"
 Diren <br />
 Aydin <br />
 Conteuse
+{{site.titre}}
 </p>
 </div>
 
@@ -38,6 +40,7 @@ promener. <br />
 On y va ? ...
 
 <a href="histoires.html"> enregistrement audio</a>
+
 </p>
 </div>
-
+{{page.auteur}}
