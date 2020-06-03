@@ -44,3 +44,4 @@ On y va ? ...
 </p>
 </div>
 {{page.auteur}}
+{{site.crade}}
