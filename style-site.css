@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Chelsea+Market&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Reenie+Beanie&display=swap');
+
 /*accueil*/
 body {
   color: #755637;
@@ -57,7 +58,7 @@ img {
 }
 
 .logo-accueil {
-  font-family: "Reenie Beanie", cursive;
+  font-family: 'Nerko One', cursive;
   color: #dea173;
   font-size: 50px;
   margin-left: 950px;
@@ -129,12 +130,12 @@ img {
 .trois {
   grid-column: 1;
   grid-row: 2;
-  background: #014f6e;
+  background: #DFAE1D;
 }
 .quatre {
   grid-column: 2;
   grid-row: 2;
-  background: #014f6e;
+  background: #DFAE1D;
 }
 .cinq {
   grid-column: 1;
