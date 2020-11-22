@@ -10,7 +10,7 @@ body {
   font-family:Gentium Book Basic, serif;
   text-align: center;
   width: 100%;
-  font-size: 35px;
+  font-size: 25px;
 }
 
 h2 {
@@ -30,7 +30,7 @@ ul {
   margin-left: 40px;
   margin-right: 40px;
   font-family: Sigmar One, cursive;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 li a:visited,
@@ -41,7 +41,7 @@ li a:active {
 
 li {
   display: inline;
-  font-size: 35px;
+  font-size: 25px;
   margin: 20px 20px;
 }
 
