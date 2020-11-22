@@ -14,12 +14,12 @@ body {
   line-height: 37px;
 }
 .four{ 
-  margin-top: 10%;}
+  margin-top: 6%;}
 
 }
 h2 {
   font-family: Gentium Book Basic, serif;
-  font-size: 25px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -34,7 +34,7 @@ ul {
   margin-left: 40px;
   margin-right: 40px;
   font-family: Grandstander, cursive;
-  font-size: 35px;
+  font-size: 30px;
   text-decoration:none;
 }
 
@@ -47,7 +47,7 @@ li a:active {
 
 li {
   display: inline;
-  font-size: 20px;
+  font-size: 25px;
   margin: 20px 20px;
   text-decoration:none; 
 }
@@ -114,16 +114,19 @@ img {
 .titre-un,
 .titre-deux,
 .titre-trois {
-  font-size: 50px;
+  font-size: 30px;
   margin: 0;
 }
 
 .img-un {
-  width: 300px;
+  width: 260px;
 }
-.img-deux,
+.img-deux {
+  width: 260px;
+
+}
 .img-trois {
-  width: 300px;
+  width: 260px;
 }
 
 .un {
@@ -137,13 +140,12 @@ img {
 .trois {
   grid-column: 1;
   grid-row: 2;
-  background: #B69D49;
+
 }
 .quatre {
   grid-column: 2;
   grid-row: 2;
-  background: #B69D49;
-}
+ }
 .cinq {
   grid-column: 1;
   grid-row: 3;

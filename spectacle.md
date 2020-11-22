@@ -5,7 +5,7 @@ layout: default
 <div class="spe">
 <div class="un">
 <img
-src="./photo/PA250098.JPG"
+src="./photo/affiche.JPG"
 alt="Affiche du spectacle"
 class="img-un"
 />
@@ -28,7 +28,7 @@ Durée: 1h
 </div>
 <div class="trois">
 <img
-src="./photo/mo.jpg"
+src="./photo/PA250143.JPG"
 alt="Affiche du spectacle"
 class="img-deux"
 />
@@ -47,7 +47,7 @@ Durée: 1h
 </div>
 <div class="cinq">
 <img
-src="./photo/affiche.JPG"
+src="./photo/PA250098.JPG"
 alt="Affiche du spectacle"
 class="img-trois"
 />

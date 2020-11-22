@@ -7,7 +7,7 @@ layout: default
 
 <p class="tx-parcours">Je suis comédienne et conteuse.<br />
 Suite à quelque années de pratique de la scène, j’ai participé à la
-formation au métier de conteur traditionnelle animé par le conteur
+formation au métier de conteur traditionnelle, animé par le conteur
 François Vermel.<br />
 Tout le long de cette formation j’ai pu être nourri par une dizaine
 d’autres conteurs professionnels de l’association Dahu téméraire.<br />
