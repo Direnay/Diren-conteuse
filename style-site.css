@@ -21,7 +21,7 @@ h2 {
 
 ul {
   box-shadow: 8px 8px 12px rgb(7, 7, 7);
-  background: #9FCED2;
+  background: #B69D49;
   border: 3px solid;
   border-color: #1F1B1C;
   margin-top: 10px;
@@ -130,12 +130,12 @@ img {
 .trois {
   grid-column: 1;
   grid-row: 2;
-  background: #DFAE1D;
+  background: #B69D49;
 }
 .quatre {
   grid-column: 2;
   grid-row: 2;
-  background: #DFAE1D;
+  background: #B69D49;
 }
 .cinq {
   grid-column: 1;
