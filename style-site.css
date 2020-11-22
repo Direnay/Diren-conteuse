@@ -4,8 +4,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap");
 /*accueil*/
 body {
-  color: #6a8785;
-  background-color: #07263e;
+  color: #755637;
+  background-color: #F9EFD0;
   font-family: "Federo", sans-serif;
   text-align: center;
   width: 100%;
@@ -20,12 +20,12 @@ h2 {
 
 ul {
   box-shadow: 8px 8px 12px rgb(7, 7, 7);
-  background: #014f6e;
+  background: #9FCED2;
   border: 3px solid;
-  border-color: #74383f;
+  border-color: #1F1B1C;
   margin-top: 10px;
   padding: 10px;
-  color: #dea173;
+  color: #5D2218;
   margin-left: 40px;
   margin-right: 40px;
   font-family: "Federo", sans-serif;
@@ -35,7 +35,7 @@ ul {
 li a:visited,
 li a:hover,
 li a:active {
-  color: #975708;
+  color: #5D2218;
 }
 
 li {
