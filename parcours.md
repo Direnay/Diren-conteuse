@@ -1,6 +1,9 @@
+---
+layout: default
+---
 
    <h2 id="mon-chemin-vers-le-conte">Mon chemin vers le conte</h2>
-<p><img src="./photo/noir -bl.jpg" alt="diren en noir et blanc" class="parcours" /></p>
+<p><img src="./photo/noir-bl.jpg" alt="diren en noir et blanc" class="parcours" /></p>
 
 <p class="tx-parcours">Je suis comédienne et conteuse.<br />
 Suite à quelque années de pratique de la scène, j’ai participé à la
