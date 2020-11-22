@@ -14,7 +14,6 @@ alt="Photo de diren aydin"
 Diren <br />
 Aydin <br />
 Conteuse
-{{site.titre}}
 </p>
 </div>
 

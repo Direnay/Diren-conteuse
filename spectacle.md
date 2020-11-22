@@ -28,7 +28,7 @@ Durée: 1h
 </div>
 <div class="trois">
 <img
-src="./photo/.jpg"
+src="./photo/mo.jpg"
 alt="Affiche du spectacle"
 class="img-deux"
 />
@@ -47,7 +47,7 @@ Durée: 1h
 </div>
 <div class="cinq">
 <img
-src="./photo/diren-conteuseee.jpg"
+src="./photo/affiche.JPG"
 alt="Affiche du spectacle"
 class="img-trois"
 />
