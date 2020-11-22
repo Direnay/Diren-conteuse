@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Chelsea+Market&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Reenie+Beanie&family=Sigmar+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Reenie+Beanie&display=swap');
 
 /*accueil*/
 body {
   color: #755637;
   background-color: #F9EFD0;
-  font-family: "Federo", sans-serif;
+  font-family: Sigmar One, cursive;
   text-align: center;
   width: 100%;
   font-size: 35px;
@@ -29,7 +29,7 @@ ul {
   color: #5D2218;
   margin-left: 40px;
   margin-right: 40px;
-  font-family: "Federo", sans-serif;
+  font-family: Sigmar One, cursive;
   font-size: 40px;
 }
 
