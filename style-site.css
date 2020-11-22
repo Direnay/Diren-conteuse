@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic&family=Nerko+One&family=Reenie+Beanie&family=Sigmar+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Reenie+Beanie&family=Sigmar+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Reenie+Beanie&display=swap');
 
@@ -7,14 +7,14 @@
 body {
   color: #755637;
   background-color: #F9EFD0;
-  font-family: Sigmar One, cursive;
+  font-family:Gentium Book Basic, serif;
   text-align: center;
   width: 100%;
   font-size: 35px;
 }
 
 h2 {
-  font-family: "Reenie Beanie", cursive;
+  font-family: Gentium Book Basic, serif;
   font-size: 50px;
   text-align: center;
 }
