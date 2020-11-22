@@ -1,47 +1,51 @@
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Balsamiq+Sans:wght@700&family=Cabin+Sketch:wght@700&family=Chelsea+Market&family=Federo&family=Frijole&family=Patrick+Hand&family=Rancho&family=Rye&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Basic&family=Nerko+One&family=Reenie+Beanie&family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Reenie+Beanie&family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Reenie+Beanie&display=swap');
+
 /*accueil*/
 body {
-  color: #6a8785;
-  background-color: #07263e;
-  font-family: "Federo", sans-serif;
+  color: #755637;
+  background-color: #F9EFD0;
+  font-family:Gentium Book Basic, serif;
   text-align: center;
   width: 100%;
-  font-size: 35px;
+  font-size: 25px;
 }
 
 h2 {
-  font-family: "Reenie Beanie", cursive;
-  font-size: 50px;
+  font-family: Gentium Book Basic, serif;
+  font-size: 30px;
   text-align: center;
 }
 
 ul {
   box-shadow: 8px 8px 12px rgb(7, 7, 7);
-  background: #014f6e;
+  background: #B69D49;
   border: 3px solid;
-  border-color: #74383f;
+  border-color: #1F1B1C;
   margin-top: 10px;
   padding: 10px;
-  color: #dea173;
+  color: #5D2218;
   margin-left: 40px;
   margin-right: 40px;
-  font-family: "Federo", sans-serif;
-  font-size: 40px;
+  font-family: Sigmar One, cursive;
+  font-size: 25px;
+  text-decoration:none
 }
 
 li a:visited,
 li a:hover,
 li a:active {
-  color: #975708;
+  color: #5D2218;
+  text-decoration:none; 
 }
 
 li {
   display: inline;
-  font-size: 35px;
+  font-size: 20px;
   margin: 20px 20px;
+  text-decoration:none; 
 }
 
 img {
@@ -49,7 +53,7 @@ img {
 }
 
 .img-accueil {
-  width: 850px;
+  width: 30%;
   margin-top: 0px;
   margin-right: 40px;
   margin-left: 100px;
@@ -57,9 +61,9 @@ img {
 }
 
 .logo-accueil {
-  font-family: "Reenie Beanie", cursive;
+  font-family: 'Nerko One', cursive;
   color: #dea173;
-  font-size: 50px;
+  font-size: 15px;
   margin-left: 950px;
   margin-right: 600px;
   margin-top: 100px;
@@ -84,7 +88,7 @@ img {
 }
 .logo-parcours {
   float: right;
-  font-family: "Reenie Beanie", cursive;
+  font-family: 'Nerko One', cursive;
   color: #dea173;
   margin-left: auto;
   margin-right: 100px;
@@ -129,12 +133,12 @@ img {
 .trois {
   grid-column: 1;
   grid-row: 2;
-  background: #014f6e;
+  background: #B69D49;
 }
 .quatre {
   grid-column: 2;
   grid-row: 2;
-  background: #014f6e;
+  background: #B69D49;
 }
 .cinq {
   grid-column: 1;
