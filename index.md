@@ -5,7 +5,7 @@ auteur: Rendi
 
 <img
 class="img-accueil"
-src="./photo/PA250065.jpg"
+src="./photo/PA250065.JPG"
 alt="Photo de diren aydin"
 />
 
