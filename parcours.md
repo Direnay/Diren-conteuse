@@ -12,7 +12,7 @@ Vient le temps , va le temps, Diren est devenue une jeune adulte. Rapidement el
  <br />
 Lors d’un voyage en Anatolie, terre de ses origines, dans une auberge troglodyte Diren à rencontré la légende de Sahmeran, la femme serpent. Elle l’a raconté encore, encore et encore…. C’est à cette instant qu’a germé en elle la conteuse qu’elle est.  <br />
  <br />
-Vient le temps , va le temps, une formation unique en France certifié AFDAS est apparu  comme une évidence, la formation à l’art du conte, organisé par l’association le Dahu Téméraire et animé, fondé par le conteur, formateur, François Vermel.  Une dizaine d’autre conteuse/conteur émérite on parfait à sa formation comme Colette Migné et Pascal Quéré.  <br />
+Vient le temps , va le temps, une formation unique en France certifié AFDAS est apparu  comme une évidence, la formation à l’art du conte, organisé par l’association le Dahu Téméraire et animé, fondé par le conteur, formateur, François Vermel.  Une dizaine d’autre conteuse/conteur émérite on parfait sa formation comme Colette Migné, Pascal Quéré, Oliviero ...  <br />
  <br />
 Aujourd'hui dans une société en quête de sens, puiser dans le patrimoine culturel richissime de la littérature orale du monde entier est un prétexte savoureux pour Diren Aydin de tisser des liens entre les humains et les cultures. Elle vous invite à former un cercle autour des contes, pour réchauffer nos cœurs comme autour d'un feu, partager des rires et des larmes. Ainsi laissons nos imaginaires voyager dans un au-delà à la fois commun et singulier.
 </p>
