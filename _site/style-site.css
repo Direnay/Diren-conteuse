@@ -5,8 +5,8 @@
 
 /*accueil*/
 body {
-  color: #755637;
-  background-color: #F9EFD0;
+  color: #75485E;
+  background-color: #DFCC74;
   font-family: Grandstander, cursive;
   text-align: center;
   width: 99%;
@@ -25,12 +25,12 @@ h2 {
 
 ul {
   box-shadow: 8px 8px 12px rgb(7, 7, 7);
-  background: #B69D49;
+  background: #51A3A3;
   border: 3px solid;
-  border-color: #1F1B1C;
+  border-color: #CB904D;
   margin-top: 10px;
   padding: 10px;
-  color: #5D2218;
+  color: #75485E;
   margin-left: 40px;
   margin-right: 40px;
   font-family: Grandstander, cursive;
