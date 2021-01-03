@@ -108,13 +108,16 @@ img {
 
 .img-un {
   width: 260px;
+  clip-path:ellipse(50% 50%);
 }
 .img-deux {
   width: 260px;
+  clip-path:ellipse(50% 50%)
 
 }
 .img-trois {
   width: 260px;
+  clip-path:ellipse(50% 50%)
 }
 
 .un {
