@@ -36,6 +36,7 @@ ul {
   font-family: Grandstander, cursive;
   font-size: 30px;
   text-decoration:none;
+  border-radius: 30px;
 }
 
 li a:visited,
