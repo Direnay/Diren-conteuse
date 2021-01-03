@@ -91,19 +91,6 @@ img {
   margin-right: 100px;
   font-size: 15px;
 }
-.logo-parcours {
-  float: right;
-  font-family: 'Nerko One', cursive;
-  color: #dea173;
-  margin-left: auto;
-  margin-right: 100px;
-  font-size: 50px;
-  border: 1px solid;
-  box-shadow: 8px 8px 12px rgb(7, 7, 7);
-  background-color: #74383f;
-  text-align: center;
-}
-
 /* spectacle */
 .spe {
   display: grid;
