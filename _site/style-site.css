@@ -23,30 +23,6 @@ h2 {
   color:#978A32;
 }
 
-ul {
-  box-shadow: 8px 8px 12px rgb(7, 7, 7);
-  background: #127141;
-  border: 3px solid;
-  margin-top: 10px;
-  padding: 10px;
-  margin-left: 40px;
-  margin-right: 40px;
-  font-family: 'avenir medium';
-  font-size: 30px;
-  text-decoration:none;
-  border-radius: 30px;
-  border-color: black;
-}
-
-li {
-  display: inline;
-  font-size: 25px;
-  margin: 20px 20px;
-  text-align: center;
-  color:#978A32;
-  text-decoration: none;
-}
-
 img {
   box-shadow: 8px 8px 12px rgb(7, 7, 7);
 }
@@ -59,14 +35,38 @@ img {
   float: left;
 }
 
+/*menu*/
+ul {
+  box-shadow: 8px 8px 12px rgb(7, 7, 7);
+  background: #127141;
+  border: 3px solid;
+  margin-top: 10px;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 30px;
+  border-color: black;
+  text-decoration: none;
+  color: #F7F2DC;
+  font-family: 'avenir medium';
+}
+
+li {
+  display: inline;
+  font-size: 30px;
+  margin: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #F7F2DC;
+  font-family: 'avenir medium';
+}
 
 /*parcours*/
 .parcours {
-  width: 80%;
-  margin-right: 40px;
-  margin-left: 40px;
-  float: left;
-  overflow: hidden;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: none;
 }
 .tx-parcours {
   text-align: justify;
