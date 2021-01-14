@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="mes-audios">
-<h2>Ouvrez bien les <a id="oreilles">oreilles</a>, c'est parti</h2>
+<h2>Ouvrez bien les oreilles, c'est parti</h2>
 <figure>
 <figcaption>Le canard, le coq et la chèvre</figcaption>
 <audio controls src="./audio/canard-coq-chevre.m4a"></audio>
