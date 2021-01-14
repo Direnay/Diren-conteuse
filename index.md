@@ -8,11 +8,8 @@ class="img-accueil"
 src="./photo/img-accueil.JPG"
 alt="Photo de diren aydin"
 />
-
-
 <div class="four">
-<p>
-À chaque instant de la vie, son énergie. <br />
+<p> À chaque instant de la vie, son énergie. <br />
 À chaque lieu de l'espace, son rythme. <br />
 Créons ensemble leur synergie, et faisons naitre l'écoute dans un moment unique, accessible qu'au présent. 
  <br />
@@ -26,5 +23,4 @@ Bon voyage ! <a href="histoires.html" style="text-decoration:none"> Contes à é
 
 </p>
 </div>
-{{page.auteur}}
-{{site.crade}}
+<h2> Diren AYDIN Conteuse </h2> 
